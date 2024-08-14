@@ -1,0 +1,3 @@
+Thoughts on modern languages
+
+Zig is like a better C, and Rust is like a better C++.
