@@ -3,7 +3,7 @@
     "generate": "imlib generate"
   },
   "dependencies": {
-    "@imlib/core": "^2.3.3"
+    "@imlib/core": "^2.6.0"
   },
   "devDependencies": {
     "@types/node": "^22.2.0"

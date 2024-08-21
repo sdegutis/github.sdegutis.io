@@ -1,0 +1,3 @@
+Dark mode without extensions
+
+If you're on a bright website like https://microsoft.github.io/monaco-editor/monarch.html and you want it to be dark, just add `filter: invert(1)` on `html` in devtools.

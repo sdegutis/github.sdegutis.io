@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
     "jsx": "react-native",
+    "lib": [
+      "ESNext"
+    ],
     "types": [
       "node",
       "@imlib/core/runtime.d.ts"
